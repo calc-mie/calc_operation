@@ -38,4 +38,4 @@ Projectsはprojectとしてissueを管理するためのページです。主に
 
 各列の最下部に"Add item"というボタンがあり、ここからDraftやissueを生やすことができます。
 
-ここでの運用としては、ひとまずDraftで生やして行うかどうかを話し合い、実施する場合は"Convert to issue"を使いissueにします。
+ここでの運用としては、ひとまずタスクをDraftとして生やして行うかどうかを話し合い、実施する場合は"Convert to issue"を使いissueにします。その後、タスクが完了したときにissueを閉じます。
